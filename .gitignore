@@ -1,0 +1,10 @@
+
+\.idea/
+
+*.iml
+
+glide\.yaml
+
+glide\.lock
+
+\vendor/
