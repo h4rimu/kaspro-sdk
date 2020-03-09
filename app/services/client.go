@@ -18,7 +18,6 @@ type ThirdParty interface {
 
 type ClientParty struct {
 	UniqueID    string
-	Localize    string
 	ClientName  string
 	HttpMethod  string
 	UrlApi      string
